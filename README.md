@@ -1,2 +1,2 @@
 # ObjectReferenceModel
-This is a mini project regarding association.It's an object reference model created using types and reference parameters. 
+This is a mini project regarding association.Object Reference model is one of the types of association. In this project,I've created two additional js files named user.js and post.js. It consists of Schemas for mongoose. The datas from the js files are exported using module.exports to main js file. Using object reference model,The data from post.js is referenced in user.js. Required Dependencies:
