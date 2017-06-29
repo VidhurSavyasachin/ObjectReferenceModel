@@ -1,0 +1,16 @@
+{
+  "name": "association",
+  "version": "1.0.0",
+  "description": "This is a mini project regarding association.Clients should note that it's an object reference model.",
+  "main": "association.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+"keywords": [
+    "node.js",
+    "express.js",
+    "mongoose"
+  ],
+  "author": "Vidhur Savyasachin T.S",
+  "license": "ISC"
+}
